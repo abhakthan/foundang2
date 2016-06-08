@@ -1,0 +1,42 @@
+{
+  "name": "foundang2",
+  "version": "1.0.0",
+  "description": "Angularjs 2 with Foundation App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "dependencies": {
+    "@angular/common":  "2.0.0-rc.1",
+    "@angular/compiler":  "2.0.0-rc.1",
+    "@angular/core":  "2.0.0-rc.1",
+    "@angular/http":  "2.0.0-rc.1",
+    "@angular/platform-browser":  "2.0.0-rc.1",
+    "@angular/platform-browser-dynamic":  "2.0.0-rc.1",
+    "@angular/router":  "2.0.0-rc.1",
+    "@angular/router-deprecated":  "2.0.0-rc.1",
+    "@angular/upgrade":  "2.0.0-rc.1",
+    "core-js": "^2.4.0",
+    "reflect-metadata": "0.1.3",
+    "rxjs": "5.0.0-beta.6",
+    "zone.js": "0.6.12",
+    "angular2-in-memory-web-api": "0.0.11",
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "concurrently": "^2.0.0",
+    "lite-server": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhakthan/foundang2.git"
+  },
+  "author": "Ajay Bhakthan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhakthan/foundang2/issues"
+  },
+  "homepage": "https://github.com/abhakthan/foundang2#readme"
+}
